@@ -107,7 +107,7 @@ header , nav ,footer{
 .menu li{
     list-style-type: none;
     display: inline-block;
-    width: 180px;
+    width:180px;
     margin: 0 10px;
 }
 .menu a{
